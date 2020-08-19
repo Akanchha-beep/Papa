@@ -22,13 +22,13 @@ h3 {
   color:#FF7F50;
   font-family: 'Montserrat', sans-serif;
 }
-.top-container {
+#top-container {
 
   background-color:#E4F9F5;
   position:relative;
   padding-top: 100px;
 }
-.middle-container {
+#middle-container {
 margin: 100 0;
 }
 .bottom-container {
